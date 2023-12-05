@@ -25,7 +25,7 @@ const createPopUp = () => {
   </div>
 
   <div class="popup-content">
-    <img src="Pixelated.jpeg" alt="Windows Image" />
+    <img src="./Pixelated.jpeg" alt="Windows Image" />
     <p>I have something to tell you...</p>
   </div>
 `;

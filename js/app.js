@@ -2,6 +2,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const h1 = document.querySelector(".h1");
   const video = document.querySelector(".video");
 
+  console.log("test");
+
   h1.addEventListener("click", function () {
     h1.style.display = "none";
     video.style.display = "block";
